@@ -1,0 +1,57 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img{
+    border: 3px solid burlywood;
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: auto;
+
+}
+
+h2{
+    color: chocolate;
+}
+
+#description{
+    padding: 10px;
+
+}
+
+.ingredients-section{
+    background-color: oldlace;
+    padding: 10px;
+    
+}
+
+.ingredients-section li{
+    color: black;
+}
+
+.steps-section{
+    background-color: oldlace;
+}
+
+#more-recipes a {
+    color:firebrick;
+    text-decoration: none;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#more-recipes ul{
+    list-style: none;
+}
+
+#more-recipes{
+    background-color: oldlace;
+}
