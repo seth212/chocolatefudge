@@ -22,7 +22,6 @@ h2{
 
 #description{
     padding: 10px;
-
 }
 
 .ingredients-section{
@@ -37,6 +36,7 @@ h2{
 
 .steps-section{
     background-color: oldlace;
+    padding: 10px;
 }
 
 #more-recipes a {
@@ -54,4 +54,5 @@ p{
 
 #more-recipes{
     background-color: oldlace;
+    padding: 10px;
 }
